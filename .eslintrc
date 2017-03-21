@@ -75,7 +75,6 @@
         "keyword-spacing": "warn",
         "new-cap": ["warn", { "capIsNewExceptions": ["Given", "When", "Then", "Before", "After", "Deferred"] }],
         "new-parens": "warn",
-        "newline-before-func/newline-before-func": "warn",
         "no-array-constructor": "warn",
         "no-continue": "warn",
         "no-else-return": "warn",
