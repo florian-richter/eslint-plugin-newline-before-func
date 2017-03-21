@@ -3,9 +3,6 @@
     "parserOptions": {
         "ecmaVersion": 6
     },
-    "plugins": [
-        "newline-before-func"
-    ],
     "env": {
         "node": true
     },
