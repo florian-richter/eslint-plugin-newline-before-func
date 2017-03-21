@@ -1,0 +1,24 @@
+{
+  "name": "eslint-plugin-newline-before-func",
+  "version": "1.0.0",
+  "description": "Enforce putting an empty line before a line containing a named function",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florian-richter/eslint-plugin-newline-before-func.git"
+  },
+  "keywords": [
+    "eslint",
+    "lint",
+    "newline-before-func",
+    "whitespace"
+  ],
+  "author": "Florian Richter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/florian-richter/eslint-plugin-newline-before-func/issues"
+  },
+  "homepage": "https://github.com/florian-richter/eslint-plugin-newline-before-func#readme",
+  "devDependencies": {
+    "eslint": "^3.18.0"
+  }
+}
